@@ -79,7 +79,7 @@ nav ul {
 li {
   display: list-item;
 }
-/* mdia queries */
+/* media queries */
 
 @media only screen and (max-width: 1024px){
   .mobile-nav {
